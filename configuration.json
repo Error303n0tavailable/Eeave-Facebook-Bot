@@ -1,0 +1,13 @@
+{
+    "CONFIG": {
+       "BOT_INFO": {
+          "PREFIX": "?",
+          "ADMIN_ID": [
+             "#"
+          ],
+          "EMAIL": "#LAGAY MO RITO YUNG EMAIL MO",
+          "PASSWORD": "PASSWORD DITO"
+       }
+    }
+ }
+ 
